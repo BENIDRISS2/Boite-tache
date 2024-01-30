@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.ma-boite {
+    width: 500px;
+    border: 2px solid red; 
+    margin: 50px; 
+    padding: 20px;
+}
+
+.ma-boite p {
+    border: 2px solid green; 
+    margin: 0;
+    padding: 20px; 
+}
